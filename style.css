@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    background: url("images/cover.jpg");
+    background-size:cover;
+}
+
+.bar ul {
+    margin: 0;
+    padding: 10px;
+}
+
+.bartwo ul {
+    padding: 10px;
+    background: black;
+    margin: 0;
+}
+
+.bartwo a {
+    color: white;
+}
+
+h1 {
+    font-size:70px;
+    margin: 0px;
+    padding: 50px;
+}
+
+.bar li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+.bartwo li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
