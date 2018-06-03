@@ -3,6 +3,8 @@ body {
 }
 
 header {
+    max-width: 70em;
+    margin: 0 auto;
     text-align: center;
     background: url("images/cover.jpg");
     background-size:cover;
@@ -24,7 +26,7 @@ header {
 }
 
 h1 {
-    font-size:70px;
+    font-size:100px;
     margin: 0px;
     padding: 50px;
 }
@@ -37,4 +39,11 @@ h1 {
 .bartwo li {
     display: inline;
     padding: 0px 10px 0px 10px;
+}
+
+article {
+    margin: 0 auto;
+    background: #F5F5F5;
+    max-width: 67.5em;
+    padding: 20px;
 }
