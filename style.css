@@ -1,7 +1,6 @@
 body {
     margin: 0;
 }
-
 header {
     max-width: 70em;
     margin: 0 auto;
@@ -9,41 +8,37 @@ header {
     background: url("images/cover.jpg");
     background-size:cover;
 }
-
 .bar ul {
     margin: 0;
     padding: 10px;
 }
-
 .bartwo ul {
     padding: 10px;
     background: black;
     margin: 0;
 }
-
 .bartwo a {
     color: white;
 }
-
 h1 {
     font-size:100px;
     margin: 0px;
     padding: 50px;
 }
-
 .bar li {
     display: inline;
     padding: 0px 10px 0px 10px;
 }
-
 .bartwo li {
     display: inline;
     padding: 0px 10px 0px 10px;
 }
-
 article {
     margin: 0 auto;
     background: #F5F5F5;
     max-width: 67.5em;
     padding: 20px;
+}
+article p {
+    padding: 0px 100px 0px 100px;
 }
